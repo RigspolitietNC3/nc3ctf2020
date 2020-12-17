@@ -5,12 +5,9 @@
 
 Retro når det er bedst: Commodore 64 intro med rasterbars, musik og selvmodificerende kode.
 
+![](nc3ctf2020_brodristeren_poster.png)
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="nc3ctf2020_brodristeren_poster.png">
-    <source src="nc3ctf2020_brodristeren_small.webm" type="video/webm">
-  </video>
-</figure>
+[video](nc3ctf2020_brodristeren_small.webm)
 
 
 Selve koden er skrevet i 6502 assembler, og er derved en kærkommen mulighed for deltagerne til enten at sætte sig ind i denne udbredte arkitektur fra fordumstid - eller måske genopfriske minder om en mere simpel tid, da CPU'er ikke var multi-tråede og havde Out-Of-Order execution.
