@@ -119,4 +119,6 @@ Svær:
 
 # Community Writeups:
 
+https://github.com/Bang0123/nc3ctf2020-writeup
+
 Skriv og lær fra dig! Vi modtager meget gerne [pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
